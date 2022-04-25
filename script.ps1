@@ -1,6 +1,6 @@
 ﻿$VpnName = "Test VPN"
 $gateway = "8.8.8.8"
-$psk = "123456"
+$psk = "4"
 $tunnelType = "L2tp"
 $encryptionLevel="Required"
 $authMethod = "MSChapv2"
